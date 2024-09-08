@@ -3,6 +3,11 @@
   "displayName": "Coffee K",
   "description": "My coffee theme",
   "version": "0.0.1",
+  "publisher": "OrdepK",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pedro-K/My_Coffee_Theme"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
