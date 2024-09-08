@@ -8,6 +8,15 @@
     "type": "git",
     "url": "https://github.com/Pedro-K/My_Coffee_Theme"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "coffee theme",
+    "coffee-k",
+    "coffee-theme",
+    "coffee-k-theme",
+    "pedro kleinfelder"
+  ],
   "engines": {
     "vscode": "^1.92.0"
   },
